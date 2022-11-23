@@ -1,0 +1,16 @@
+.navbar-brand {height: auto; padding: 0;}
+
+.navbar-toggler:focus {
+    --bs-navbar-toggler-focus-width: o;
+}
+.nav-link p{
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #1a2247;
+}
+
+.nav-link p:hover{
+    border-bottom: 2px solid #2A2D72; 
+}
+

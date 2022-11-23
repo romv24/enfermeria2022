@@ -1,0 +1,22 @@
+#button{
+    height: 10rem; 
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #fff;
+    background-color: #24799e; 
+    border: none;
+    border-radius: 15px;
+    box-shadow: 2px 7px #999;
+}
+#button:hover{
+    background-color: #2a2d72;
+}
+
+#button:active {
+    background-color: #2a2d72;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#Colaborar{
+    scroll-margin-top: 5rem;
+}
